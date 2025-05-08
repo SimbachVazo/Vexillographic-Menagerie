@@ -1,0 +1,12 @@
+{
+	"id":"VexMenaPayroll", # internal id
+	"name":"Vexillographic Menagerie - On Payroll", # displayed to the player
+	"author":"SV",
+	"version":{
+		"major":1, 
+		"minor":0, 
+		#"patch":"super"
+	},
+	"description":"A collection of flags designed to emulate the flags of the main factions.",
+	"gameVersion":"0.98a",
+}
