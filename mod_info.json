@@ -1,0 +1,12 @@
+{
+	"id":"VexMena", # internal id
+	"name":"Vexillographic Menagerie", # displayed to the player
+	"author":"SV",
+	"version":{
+		"major":1, 
+		"minor":1, 
+		#"patch":"super"
+	},
+	"description":"A collection of flags I've made for one reason or another.",
+	"gameVersion":"0.98a",
+}
