@@ -4,8 +4,8 @@
 	"author":"SV",
 	"version":{
 		"major":1, 
-		"minor":0, 
-		#"patch":"super"
+		"minor":1, 
+		"patch":B
 	},
 	"description":"A collection of flags designed to emulate the flags of the main factions.",
 	"gameVersion":"0.98a",
